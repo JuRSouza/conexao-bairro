@@ -13,7 +13,20 @@ O objetivo é fortalecer os laços comunitários e fomentar a colaboração por 
 - Promoções Locais  
 - Vagas de Emprego  
 - Perfil de Usuário  
-- Contato / Suporte com FAQ  
+- Contato / Suporte com FAQ
+  
+---
+
+## 🚧 Status do Projeto
+⚠️ Este projeto ainda está em desenvolvimento.
+
+As páginas principais já foram estruturadas em HTML.
+
+Os estilos em CSS estão em fase de ajustes e refinamento visual.
+
+Os scripts em JavaScript estão sendo implementados para tornar a navegação mais dinâmica e interativa.
+
+Algumas funcionalidades ainda estão pendentes, como cadastro de serviços, integração com banco de dados e validações de formulário.
 
 ---
 
